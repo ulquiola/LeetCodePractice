@@ -1,0 +1,11 @@
+/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/bin/Debug/netcoreapp2.2/TwoSum.deps.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/bin/Debug/netcoreapp2.2/TwoSum.runtimeconfig.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/bin/Debug/netcoreapp2.2/TwoSum.runtimeconfig.dev.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/bin/Debug/netcoreapp2.2/TwoSum.dll
+/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/bin/Debug/netcoreapp2.2/TwoSum.pdb
+/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/obj/Debug/netcoreapp2.2/TwoSum.csprojAssemblyReference.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/obj/Debug/netcoreapp2.2/TwoSum.csproj.CoreCompileInputs.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/obj/Debug/netcoreapp2.2/TwoSum.AssemblyInfoInputs.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/obj/Debug/netcoreapp2.2/TwoSum.AssemblyInfo.cs
+/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/obj/Debug/netcoreapp2.2/TwoSum.dll
+/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/obj/Debug/netcoreapp2.2/TwoSum.pdb

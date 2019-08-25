@@ -1,0 +1,11 @@
+/home/ulquiola/WorkSpace/LeetCode-Practic/IsPalindrome/bin/Debug/netcoreapp2.2/IsPalindrome.deps.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/IsPalindrome/bin/Debug/netcoreapp2.2/IsPalindrome.runtimeconfig.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/IsPalindrome/bin/Debug/netcoreapp2.2/IsPalindrome.runtimeconfig.dev.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/IsPalindrome/bin/Debug/netcoreapp2.2/IsPalindrome.dll
+/home/ulquiola/WorkSpace/LeetCode-Practic/IsPalindrome/bin/Debug/netcoreapp2.2/IsPalindrome.pdb
+/home/ulquiola/WorkSpace/LeetCode-Practic/IsPalindrome/obj/Debug/netcoreapp2.2/IsPalindrome.csprojAssemblyReference.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/IsPalindrome/obj/Debug/netcoreapp2.2/IsPalindrome.csproj.CoreCompileInputs.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/IsPalindrome/obj/Debug/netcoreapp2.2/IsPalindrome.AssemblyInfoInputs.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/IsPalindrome/obj/Debug/netcoreapp2.2/IsPalindrome.AssemblyInfo.cs
+/home/ulquiola/WorkSpace/LeetCode-Practic/IsPalindrome/obj/Debug/netcoreapp2.2/IsPalindrome.dll
+/home/ulquiola/WorkSpace/LeetCode-Practic/IsPalindrome/obj/Debug/netcoreapp2.2/IsPalindrome.pdb

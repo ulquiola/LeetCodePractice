@@ -1,0 +1,11 @@
+/home/ulquiola/WorkSpace/LeetCode-Practic/RomanToInt/bin/Debug/netcoreapp2.2/RomanToInt.deps.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/RomanToInt/bin/Debug/netcoreapp2.2/RomanToInt.runtimeconfig.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/RomanToInt/bin/Debug/netcoreapp2.2/RomanToInt.runtimeconfig.dev.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/RomanToInt/bin/Debug/netcoreapp2.2/RomanToInt.dll
+/home/ulquiola/WorkSpace/LeetCode-Practic/RomanToInt/bin/Debug/netcoreapp2.2/RomanToInt.pdb
+/home/ulquiola/WorkSpace/LeetCode-Practic/RomanToInt/obj/Debug/netcoreapp2.2/RomanToInt.csprojAssemblyReference.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/RomanToInt/obj/Debug/netcoreapp2.2/RomanToInt.csproj.CoreCompileInputs.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/RomanToInt/obj/Debug/netcoreapp2.2/RomanToInt.AssemblyInfoInputs.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/RomanToInt/obj/Debug/netcoreapp2.2/RomanToInt.AssemblyInfo.cs
+/home/ulquiola/WorkSpace/LeetCode-Practic/RomanToInt/obj/Debug/netcoreapp2.2/RomanToInt.dll
+/home/ulquiola/WorkSpace/LeetCode-Practic/RomanToInt/obj/Debug/netcoreapp2.2/RomanToInt.pdb

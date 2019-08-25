@@ -1,0 +1,11 @@
+/home/ulquiola/WorkSpace/LeetCode-Practic/Reverse/obj/Debug/netcoreapp2.2/Reverse.csprojAssemblyReference.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/Reverse/obj/Debug/netcoreapp2.2/Reverse.csproj.CoreCompileInputs.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/Reverse/obj/Debug/netcoreapp2.2/Reverse.AssemblyInfoInputs.cache
+/home/ulquiola/WorkSpace/LeetCode-Practic/Reverse/obj/Debug/netcoreapp2.2/Reverse.AssemblyInfo.cs
+/home/ulquiola/WorkSpace/LeetCode-Practic/Reverse/bin/Debug/netcoreapp2.2/Reverse.deps.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/Reverse/bin/Debug/netcoreapp2.2/Reverse.runtimeconfig.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/Reverse/bin/Debug/netcoreapp2.2/Reverse.runtimeconfig.dev.json
+/home/ulquiola/WorkSpace/LeetCode-Practic/Reverse/bin/Debug/netcoreapp2.2/Reverse.dll
+/home/ulquiola/WorkSpace/LeetCode-Practic/Reverse/bin/Debug/netcoreapp2.2/Reverse.pdb
+/home/ulquiola/WorkSpace/LeetCode-Practic/Reverse/obj/Debug/netcoreapp2.2/Reverse.dll
+/home/ulquiola/WorkSpace/LeetCode-Practic/Reverse/obj/Debug/netcoreapp2.2/Reverse.pdb
