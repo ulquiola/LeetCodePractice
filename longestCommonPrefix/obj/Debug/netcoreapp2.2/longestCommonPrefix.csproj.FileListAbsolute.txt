@@ -1,0 +1,11 @@
+/home/ulquiola/WorkSpace/LeetCodePractice/longestCommonPrefix/bin/Debug/netcoreapp2.2/longestCommonPrefix.deps.json
+/home/ulquiola/WorkSpace/LeetCodePractice/longestCommonPrefix/bin/Debug/netcoreapp2.2/longestCommonPrefix.runtimeconfig.json
+/home/ulquiola/WorkSpace/LeetCodePractice/longestCommonPrefix/bin/Debug/netcoreapp2.2/longestCommonPrefix.runtimeconfig.dev.json
+/home/ulquiola/WorkSpace/LeetCodePractice/longestCommonPrefix/bin/Debug/netcoreapp2.2/longestCommonPrefix.dll
+/home/ulquiola/WorkSpace/LeetCodePractice/longestCommonPrefix/bin/Debug/netcoreapp2.2/longestCommonPrefix.pdb
+/home/ulquiola/WorkSpace/LeetCodePractice/longestCommonPrefix/obj/Debug/netcoreapp2.2/longestCommonPrefix.csprojAssemblyReference.cache
+/home/ulquiola/WorkSpace/LeetCodePractice/longestCommonPrefix/obj/Debug/netcoreapp2.2/longestCommonPrefix.csproj.CoreCompileInputs.cache
+/home/ulquiola/WorkSpace/LeetCodePractice/longestCommonPrefix/obj/Debug/netcoreapp2.2/longestCommonPrefix.AssemblyInfoInputs.cache
+/home/ulquiola/WorkSpace/LeetCodePractice/longestCommonPrefix/obj/Debug/netcoreapp2.2/longestCommonPrefix.AssemblyInfo.cs
+/home/ulquiola/WorkSpace/LeetCodePractice/longestCommonPrefix/obj/Debug/netcoreapp2.2/longestCommonPrefix.dll
+/home/ulquiola/WorkSpace/LeetCodePractice/longestCommonPrefix/obj/Debug/netcoreapp2.2/longestCommonPrefix.pdb

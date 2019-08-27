@@ -1,0 +1,11 @@
+/home/ulquiola/WorkSpace/LeetCodePractice/IsValid/obj/Debug/netcoreapp2.2/IsValid.csprojAssemblyReference.cache
+/home/ulquiola/WorkSpace/LeetCodePractice/IsValid/obj/Debug/netcoreapp2.2/IsValid.csproj.CoreCompileInputs.cache
+/home/ulquiola/WorkSpace/LeetCodePractice/IsValid/obj/Debug/netcoreapp2.2/IsValid.AssemblyInfoInputs.cache
+/home/ulquiola/WorkSpace/LeetCodePractice/IsValid/obj/Debug/netcoreapp2.2/IsValid.AssemblyInfo.cs
+/home/ulquiola/WorkSpace/LeetCodePractice/IsValid/bin/Debug/netcoreapp2.2/IsValid.deps.json
+/home/ulquiola/WorkSpace/LeetCodePractice/IsValid/bin/Debug/netcoreapp2.2/IsValid.runtimeconfig.json
+/home/ulquiola/WorkSpace/LeetCodePractice/IsValid/bin/Debug/netcoreapp2.2/IsValid.runtimeconfig.dev.json
+/home/ulquiola/WorkSpace/LeetCodePractice/IsValid/bin/Debug/netcoreapp2.2/IsValid.dll
+/home/ulquiola/WorkSpace/LeetCodePractice/IsValid/bin/Debug/netcoreapp2.2/IsValid.pdb
+/home/ulquiola/WorkSpace/LeetCodePractice/IsValid/obj/Debug/netcoreapp2.2/IsValid.dll
+/home/ulquiola/WorkSpace/LeetCodePractice/IsValid/obj/Debug/netcoreapp2.2/IsValid.pdb
