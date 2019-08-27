@@ -1,6 +1,6 @@
 # LeetCode 刷题思路与解法
 
-###快速排序
+##快速排序
 
 ```
         static int[] QuickSort(int[] nums,int left,int right)
