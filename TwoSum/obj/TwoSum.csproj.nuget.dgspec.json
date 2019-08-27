@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/TwoSum.csproj": {}
+    "/home/ulquiola/WorkSpace/LeetCodePractice/TwoSum/TwoSum.csproj": {}
   },
   "projects": {
-    "/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/TwoSum.csproj": {
+    "/home/ulquiola/WorkSpace/LeetCodePractice/TwoSum/TwoSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/TwoSum.csproj",
+        "projectUniqueName": "/home/ulquiola/WorkSpace/LeetCodePractice/TwoSum/TwoSum.csproj",
         "projectName": "TwoSum",
-        "projectPath": "/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/TwoSum.csproj",
+        "projectPath": "/home/ulquiola/WorkSpace/LeetCodePractice/TwoSum/TwoSum.csproj",
         "packagesPath": "/home/ulquiola/.nuget/packages/",
-        "outputPath": "/home/ulquiola/WorkSpace/LeetCode-Practic/TwoSum/obj/",
+        "outputPath": "/home/ulquiola/WorkSpace/LeetCodePractice/TwoSum/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

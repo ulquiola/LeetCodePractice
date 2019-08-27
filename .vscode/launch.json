@@ -9,9 +9,9 @@
       "type": "coreclr",
       "request": "launch",
       "preLaunchTask": "build",
-      "program": "${workspaceFolder}/IsValid/bin/Debug/netcoreapp2.2/IsValid.dll",
+      "program": "${workspaceFolder}/TwoSum/bin/Debug/netcoreapp2.2/TwoSum.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/IsValid",
+      "cwd": "${workspaceFolder}/TwoSum",
       "console": "internalConsole",
       "stopAtEntry": false
     },

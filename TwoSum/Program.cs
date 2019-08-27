@@ -8,24 +8,32 @@ namespace TwoSum
     {
         static int[] TwoSum(int[] nums,int target)
         {
-            Hashtable h =new Hashtable();
-            for(int i=0;i<nums.Length;i++)
+            var result = new int[2];
+            Dictionary<int, int> dic = new Dictionary<int, int>();
+            for (int i = 0; i < nums.Length; i++)
             {
-                int wannaNum =target-nums[i];//3,3
-                if(h.ContainsKey(wannaNum))
+                int currentNum = nums[i];//当前数
+                int wanaGet = target - currentNum;//对比数
+                if (dic.ContainsKey(wanaGet))
                 {
-                    return new int[] {i};
+                    result[1] = i;
+                    result[0] = dic[wanaGet];
                 }
-                h[nums[i]]=i;
+                else//没有就添加入字典
+                {
+                    dic[currentNum] = i;//直接赋值就好，不能使用Add方法，会出现重复key异常
+                }
             }
-            return null;
+            return result;
         }
         static void Main(string[] args)
         {
             int[] nums={3,3};
-            TwoSum(nums,6);
-            Console.WriteLine("Hello World!");
-        
+            var res = TwoSum(nums,6);
+            foreach(var i in res)
+            {
+                System.Console.WriteLine(i);
+            }
         }
     }
 }
