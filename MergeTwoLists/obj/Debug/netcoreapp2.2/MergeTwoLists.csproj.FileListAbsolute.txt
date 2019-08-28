@@ -1,0 +1,11 @@
+/home/ulquiola/WorkSpace/LeetCodePractice/MergeTwoLists/bin/Debug/netcoreapp2.2/MergeTwoLists.deps.json
+/home/ulquiola/WorkSpace/LeetCodePractice/MergeTwoLists/bin/Debug/netcoreapp2.2/MergeTwoLists.runtimeconfig.json
+/home/ulquiola/WorkSpace/LeetCodePractice/MergeTwoLists/bin/Debug/netcoreapp2.2/MergeTwoLists.runtimeconfig.dev.json
+/home/ulquiola/WorkSpace/LeetCodePractice/MergeTwoLists/bin/Debug/netcoreapp2.2/MergeTwoLists.dll
+/home/ulquiola/WorkSpace/LeetCodePractice/MergeTwoLists/bin/Debug/netcoreapp2.2/MergeTwoLists.pdb
+/home/ulquiola/WorkSpace/LeetCodePractice/MergeTwoLists/obj/Debug/netcoreapp2.2/MergeTwoLists.csprojAssemblyReference.cache
+/home/ulquiola/WorkSpace/LeetCodePractice/MergeTwoLists/obj/Debug/netcoreapp2.2/MergeTwoLists.csproj.CoreCompileInputs.cache
+/home/ulquiola/WorkSpace/LeetCodePractice/MergeTwoLists/obj/Debug/netcoreapp2.2/MergeTwoLists.AssemblyInfoInputs.cache
+/home/ulquiola/WorkSpace/LeetCodePractice/MergeTwoLists/obj/Debug/netcoreapp2.2/MergeTwoLists.AssemblyInfo.cs
+/home/ulquiola/WorkSpace/LeetCodePractice/MergeTwoLists/obj/Debug/netcoreapp2.2/MergeTwoLists.dll
+/home/ulquiola/WorkSpace/LeetCodePractice/MergeTwoLists/obj/Debug/netcoreapp2.2/MergeTwoLists.pdb
